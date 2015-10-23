@@ -1,27 +1,13 @@
-h1:hover {
-  color: #cee0f0;
+header img {
+  width: 33%;
 }
-
-a:visited {
-  text-decoration: none;
+nav a {
+  text-decoration: line-through;
 }
-
-header {
-  text-align: center;
-  margin: auto;
-  width: 75%;
+a {
+ text-decoration: none; 
 }
-
-article {
-  width: 80%;
-  margin: auto;
-}
-
-p::first-letter {
-  font-size: 1.5em;
-}
-
-footer {
-  border: 2px solid magenta;
-  border-radius: 12px;
+p {
+  color: magenta;
+  color: orange;
 }
